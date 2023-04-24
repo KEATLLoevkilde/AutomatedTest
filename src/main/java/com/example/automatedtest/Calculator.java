@@ -5,7 +5,7 @@ public class Calculator {
     public Calculator() {
     }
 
-    public int add(int numA, int numB){
-        return numA + numB;
+    public int add(int A, int B){
+        return A + B;
     }
 }
